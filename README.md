@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gaurilokhande
-- 👀 I’m interested in Datascience Machine learning 
+- 👀 I’m interested in Java 
 - 🌱 I’m currently learning Computer engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
